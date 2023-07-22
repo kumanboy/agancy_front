@@ -1,3 +1,27 @@
 # 1 - qadam
 
 index.html va style.css github repo o'rnatish
+
+# 2 - qadam
+
+style.cssda hamma taglarda margin va padding 0 qiymat beramiz.
+
+body tagimizga font-family sans-serif beramiz
+
+# 3 - qadam
+
+index.html head qismida css va bootstrap ulab olamiz
+
+bootstrapning cnd qismi head tagi ichida javascript qismi esa body tagi ichida bolishi kerak
+
+bootstrapcdn saytidan iconlar ham ornatib olamiz
+
+https://www.bootstrapcdn.com/fontawesome/
+
+## 4- qadam
+
+body tagimiz ichida section tagini ishlatamiz navbar yaratishmiz uchun songra bootstrapdan ozimiz uchun qulay bolgan navbar qismini tanlab qoyamiz
+
+# 5 -qadam
+
+style.css filemizda navbar qismimizga style beramiz
