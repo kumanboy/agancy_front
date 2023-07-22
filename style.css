@@ -15,3 +15,22 @@ body{
     background-image: linear-gradient(to right, #a517ba,#5f1782);
     padding: 0 !important;
 }
+.navbar-brand img{ /* Logo style */
+    height: 40px;
+    padding-left: 20px;
+}
+.navbar-nav li{ /* linklarga style */
+    padding: 0 10px;
+}
+.navbar-nav a{ /* linklarga style */
+     color: #fff !important;   
+     font-weight: 600;
+     text-align: center;
+}
+.fa-bars { /*5.1 qadam*/
+    color: #fff;
+    font-size: 25px !important;
+}
+.navbar-toggler {
+    outline: none !important;
+}

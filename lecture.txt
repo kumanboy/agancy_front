@@ -14,9 +14,9 @@ index.html head qismida css va bootstrap ulab olamiz
 
 bootstrapning cnd qismi head tagi ichida javascript qismi esa body tagi ichida bolishi kerak
 
-bootstrapcdn saytidan iconlar ham ornatib olamiz
+fontawesome saytimiz ulab olamiz
 
-https://www.bootstrapcdn.com/fontawesome/
+https://fontawesome.com/kits
 
 ## 4- qadam
 
@@ -25,3 +25,7 @@ body tagimiz ichida section tagini ishlatamiz navbar yaratishmiz uchun songra bo
 # 5 -qadam
 
 style.css filemizda navbar qismimizga style beramiz
+
+# 5.1 - qadam
+
+span tagimiz ochirib tashlaymiz hamda fontawesome saytidan bar iconimiz qoyamiz
