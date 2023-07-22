@@ -34,14 +34,18 @@ span tagimiz ochirib tashlaymiz hamda fontawesome saytidan bar iconimiz qoyamiz
 
 banner qismini yaratamiz section tagi ichida container  row col-md-6 beramiz hamda style beramiz
 
-#7 - qadam
+# 7 - qadam
 
 services qismini yaratamiz section tagi ichida container h1 row col-md-4 beramiz hamda img h4 p taglarini ishlatamiz va style beramiz
 
-#8 - qadam
+# 8 - qadam
 
-About us qismini yaratamiz section tagi ichida container h1 row col-md-4 beramiz hamda img h4 p ul li taglarini ishlatamiz va style beramiz
+About us qismini yaratamiz section tagi ichida container h1 row col-md-4 beramiz hamda img  p ul li taglarini ishlatamiz va style beramiz
 
-#9 - qadam
+# 9 - qadam
 
-TESTMONIALS qismini yaratamiz section tagi ichida container h1 row col-md-4 beramiz hamda img h4 p  taglarini ishlatamiz va style beramiz
+TESTMONIALS qismini yaratamiz section tagi ichida container h1 row col-md-4 beramiz hamda img  p  taglarini ishlatamiz va style beramiz
+
+# 10 - qadam
+
+Social Media qismini yaratamiz section tagi ichida container p row col-md-4 beramiz hamda a p img taglarini ishlatamiz va style beramiz
