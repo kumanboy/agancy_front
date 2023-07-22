@@ -29,3 +29,11 @@ style.css filemizda navbar qismimizga style beramiz
 # 5.1 - qadam
 
 span tagimiz ochirib tashlaymiz hamda fontawesome saytidan bar iconimiz qoyamiz
+
+# 6 - qadam
+
+banner qismini yaratamiz section tagi ichida container  row col-md-6 beramiz hamda style beramiz
+
+#7 - qadam
+
+services qismini yaratamiz section tagi ichida container  row col-md-4 beramiz hamda img h4 p taglarini ishlatamiz va style beramiz
